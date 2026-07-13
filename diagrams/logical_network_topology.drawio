@@ -1,0 +1,233 @@
+<mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
+  <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
+    <mxGraphModel dx="1094" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l44_z-ALANyK3NtLu_jd-62" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110.095238095238" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-1" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;verticalAlign=middle;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Internet&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="1025" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-2" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="1060" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-63" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-3" parent="1" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" value="OPnSense" vertex="1">
+          <mxGeometry height="30" width="100" x="1060" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-48" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l44_z-ALANyK3NtLu_jd-38" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="370" />
+              <mxPoint x="1210" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-58" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-60" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="390" />
+              <mxPoint x="950" y="390" />
+            </Array>
+            <mxPoint x="950" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=default;textShadow=0;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" value="&lt;font&gt;VLAN 10 / MGMT&lt;br&gt;Aruba 2530-8G PoE+&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="1050" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-51" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270.4736842105265" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-61" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-38" parent="1" style="fontColor=light-dark(#0066CC,#FFFFFF);verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" value="Aruba IAP-303&lt;br&gt;1/1/3" vertex="1">
+          <mxGeometry height="85" width="100" x="1220" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-44" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="147.02" width="60" x="1207.89" y="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-45" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="1320" y="92.98" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-22" parent="l44_z-ALANyK3NtLu_jd-45" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=default;textShadow=0;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" value="&lt;font&gt;VLAN 100 / VPN&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="180" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-42" parent="l44_z-ALANyK3NtLu_jd-45" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-43" parent="l44_z-ALANyK3NtLu_jd-45" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="90" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-46" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="240" width="240" x="1150" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-79" edge="1" parent="l44_z-ALANyK3NtLu_jd-46" source="l44_z-ALANyK3NtLu_jd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-20" parent="l44_z-ALANyK3NtLu_jd-46" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=default;textShadow=0;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" value="&lt;font&gt;VLAN 40 / GENERAL&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="240" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-33" parent="l44_z-ALANyK3NtLu_jd-46" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-34" parent="l44_z-ALANyK3NtLu_jd-46" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="150" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-35" parent="l44_z-ALANyK3NtLu_jd-46" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;" value="" vertex="1">
+          <mxGeometry height="50" width="70" x="85" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-36" parent="l44_z-ALANyK3NtLu_jd-46" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.printer;" value="" vertex="1">
+          <mxGeometry height="60" width="70" x="160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-37" parent="l44_z-ALANyK3NtLu_jd-46" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.gamepad;" value="" vertex="1">
+          <mxGeometry height="40" width="60" x="20" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-54" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="1450" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-21" parent="l44_z-ALANyK3NtLu_jd-54" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=default;textShadow=0;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" value="&lt;font&gt;VLAN 50 / IOT&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="180" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-39" parent="l44_z-ALANyK3NtLu_jd-54" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.unsecure;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 253, 249));&quot;&gt;Robot Vacuum&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="60" x="60" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-55" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="120" x="770" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-69" edge="1" parent="l44_z-ALANyK3NtLu_jd-55" source="l44_z-ALANyK3NtLu_jd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-73" connectable="0" parent="l44_z-ALANyK3NtLu_jd-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SSH Ports: 22" vertex="1">
+          <mxGeometry relative="1" x="-0.0139" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-74" edge="1" parent="l44_z-ALANyK3NtLu_jd-55" source="l44_z-ALANyK3NtLu_jd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-19" parent="l44_z-ALANyK3NtLu_jd-55" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=default;textShadow=0;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" value="&lt;font&gt;VLAN 30 / PC&lt;br&gt;1/1/1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-25" parent="l44_z-ALANyK3NtLu_jd-55" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="10" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-57" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="305" width="305" x="795" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-77" edge="1" parent="l44_z-ALANyK3NtLu_jd-57" source="l44_z-ALANyK3NtLu_jd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-80" edge="1" parent="l44_z-ALANyK3NtLu_jd-57" source="l44_z-ALANyK3NtLu_jd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="76.55172413793105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-18" parent="l44_z-ALANyK3NtLu_jd-57" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=default;textShadow=0;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" value="&lt;font&gt;VLAN 20 / LAB&lt;br&gt;1/1/2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="305" width="305" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-30" edge="1" parent="l44_z-ALANyK3NtLu_jd-57" source="l44_z-ALANyK3NtLu_jd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l44_z-ALANyK3NtLu_jd-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="215" />
+              <mxPoint x="140" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-27" parent="l44_z-ALANyK3NtLu_jd-57" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_pc;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Debian&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="20" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-31" edge="1" parent="l44_z-ALANyK3NtLu_jd-57" source="l44_z-ALANyK3NtLu_jd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l44_z-ALANyK3NtLu_jd-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="195" />
+              <mxPoint x="150" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-28" parent="l44_z-ALANyK3NtLu_jd-57" style="fontColor=default;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_pc;" value="OPnSense" vertex="1">
+          <mxGeometry height="70" width="100" x="180" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-29" parent="l44_z-ALANyK3NtLu_jd-57" style="fontColor=light-dark(#0066CC,#FFFFFF);verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" value="Proxmox" vertex="1">
+          <mxGeometry height="70" width="100" x="102.5" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-32" parent="l44_z-ALANyK3NtLu_jd-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NFS" vertex="1">
+          <mxGeometry height="30" width="60" x="120" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-65" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="110" as="sourcePoint" />
+            <mxPoint x="890" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-66" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="150" as="sourcePoint" />
+            <mxPoint x="890" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ethernet" vertex="1">
+          <mxGeometry height="30" width="60" x="820" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-68" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(45, 118, 0), rgb(115, 177, 76));&quot;&gt;WLAN&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="820" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SSH&lt;br&gt;Ports: 8006, 443, 2283, 8080" vertex="1">
+          <mxGeometry height="90" width="50" x="830" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;SSH Ports:&lt;br&gt;&lt;font style=&quot;&quot;&gt;2283, 8080, Vault&lt;br&gt;Warden&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="50" x="1100" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-84" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" target="l44_z-ALANyK3NtLu_jd-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1345" y="835" />
+              <mxPoint x="770" y="835" />
+            </Array>
+            <mxPoint x="1355.0000000000002" y="815" as="sourcePoint" />
+            <mxPoint x="770" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP" vertex="1">
+          <mxGeometry height="30" width="60" x="1330" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-86" edge="1" parent="1" source="l44_z-ALANyK3NtLu_jd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="l44_z-ALANyK3NtLu_jd-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="450" />
+              <mxPoint x="1024" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l44_z-ALANyK3NtLu_jd-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ports: 2283, 8080, VaultWarden" vertex="1">
+          <mxGeometry height="60" width="90" x="1030" y="455" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
