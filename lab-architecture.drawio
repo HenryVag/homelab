@@ -1,0 +1,203 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="8RAsc_2ol2fua9ke7Pj_">
+    <mxGraphModel dx="2294" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-8" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-41" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;HP Prodesk SFF&lt;/b&gt;&lt;div&gt;I7-4790&lt;br&gt;32GB DDR3&lt;br&gt;2x 256gb SSD&lt;/div&gt;&lt;div&gt;2x 2TB HDD&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="350" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-61" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="pw5gMtQudh4Z1A4pbRVf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-63" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pw5gMtQudh4Z1A4pbRVf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="240" />
+            </Array>
+            <mxPoint x="146" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-93" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-105" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pw5gMtQudh4Z1A4pbRVf-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Proxmox&lt;br&gt;(SSD)" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-40" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-86" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Debian Server netinst&lt;br&gt;10GB" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-106" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OPnSense&lt;br&gt;4GB" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Immich" vertex="1">
+          <mxGeometry height="60" width="120" x="-360" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Nextcloud" vertex="1">
+          <mxGeometry height="60" width="120" x="-230" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="DNS blocker" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Docker" vertex="1">
+          <mxGeometry height="80" width="80" x="-200" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-21" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.581;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" target="pw5gMtQudh4Z1A4pbRVf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-98" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pw5gMtQudh4Z1A4pbRVf-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TrueNAS&lt;br&gt;12GB" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Cold Backup&lt;/b&gt;&lt;div&gt;1x 256GB SSD&lt;/div&gt;&lt;div&gt;1x 2TB HDD&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="580" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-34" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Docker" vertex="1">
+          <mxGeometry height="80" width="80" x="-80" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-35" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-280" y="590" />
+              <mxPoint x="-280" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-29" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Docker" vertex="1">
+          <mxGeometry height="80" width="80" x="-320" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-37" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-38" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="pw5gMtQudh4Z1A4pbRVf-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-39" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="pw5gMtQudh4Z1A4pbRVf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-60" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pw5gMtQudh4Z1A4pbRVf-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-36" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Docker Compose" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-53" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="WireGuard VPN" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-57" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="VaultWarden" vertex="1">
+          <mxGeometry height="60" width="120" x="25" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-58" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="590" />
+              <mxPoint x="85" y="590" />
+            </Array>
+            <mxPoint x="85" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Docker" vertex="1">
+          <mxGeometry height="80" width="80" x="45" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-99" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pw5gMtQudh4Z1A4pbRVf-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-65" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="ZFS mirror&amp;nbsp;&lt;div&gt;2x2TB HDD&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-82" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-72" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;POOL&lt;/b&gt;&lt;div&gt;tank&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="385" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-73" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="immich-data" vertex="1">
+          <mxGeometry height="90" width="70" x="300" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-74" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="dnsblock-data" vertex="1">
+          <mxGeometry height="90" width="70" x="480" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-75" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="vaulwarden-data" vertex="1">
+          <mxGeometry height="90" width="70" x="390" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-76" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="wireguard-data" vertex="1">
+          <mxGeometry height="90" width="70" x="350" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-77" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="nextcloud-data" vertex="1">
+          <mxGeometry height="90" width="70" x="430" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-91" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="pw5gMtQudh4Z1A4pbRVf-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="710" />
+              <mxPoint x="270" y="710" />
+              <mxPoint x="270" y="322" />
+            </Array>
+            <mxPoint x="280" y="313.9622641509434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-81" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="280" width="280" x="285" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-85" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="pw5gMtQudh4Z1A4pbRVf-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-90" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.065;exitY=0.669;exitDx=0;exitDy=0;entryX=1;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="pw5gMtQudh4Z1A4pbRVf-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135.4545454545455" y="320.0363636363636" as="sourcePoint" />
+            <mxPoint x="-90" y="320.19999999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-84" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="NFS&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(Network File System)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-100" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pw5gMtQudh4Z1A4pbRVf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-92" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Individual Disk Passthrough&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="385" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-104" edge="1" parent="1" source="pw5gMtQudh4Z1A4pbRVf-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pw5gMtQudh4Z1A4pbRVf-103" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Proxmox Backup Server &lt;br&gt;2GB" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pw5gMtQudh4Z1A4pbRVf-103" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="256GB SSD&lt;div&gt;Proxmox Backup&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
