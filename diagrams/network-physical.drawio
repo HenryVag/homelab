@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="fOOTgyiub5VZZqQnVqK7">
+    <mxGraphModel dx="929" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-5" edge="1" parent="1" source="Hd8MRaHsRWnLwEmbADS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hd8MRaHsRWnLwEmbADS9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OPnSense Router" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-6" edge="1" parent="1" source="Hd8MRaHsRWnLwEmbADS9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hd8MRaHsRWnLwEmbADS9-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-13" edge="1" parent="1" source="Hd8MRaHsRWnLwEmbADS9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Hd8MRaHsRWnLwEmbADS9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-23" edge="1" parent="1" source="Hd8MRaHsRWnLwEmbADS9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hd8MRaHsRWnLwEmbADS9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aruba 2530-8G PoE+&lt;div&gt;Switch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-19" edge="1" parent="1" source="Hd8MRaHsRWnLwEmbADS9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hd8MRaHsRWnLwEmbADS9-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="530" />
+              <mxPoint x="280" y="550" />
+              <mxPoint x="220" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-20" edge="1" parent="1" source="Hd8MRaHsRWnLwEmbADS9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hd8MRaHsRWnLwEmbADS9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aruba IAP-303" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PC" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cat 6&lt;/div&gt;WiFI 5" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-14" edge="1" parent="1" source="Hd8MRaHsRWnLwEmbADS9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hd8MRaHsRWnLwEmbADS9-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="PoE" vertex="1">
+          <mxGeometry height="80" width="80" x="240" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-15" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="IoT" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-16" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Laptops" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-17" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Phones" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-18" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="TV" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd8MRaHsRWnLwEmbADS9-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Homelab" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
