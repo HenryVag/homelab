@@ -1,3 +1,4 @@
+```
 ip default-gateway 192.168.10.1
 interface 1
    no power-over-ethernet
@@ -66,4 +67,10 @@ vlan 100
    name "VPN"
    no ip address
    exit
+spanning-tree
+no tftp server
+no dhcp config-file-update
+no dhcp image-file-update
+password manager
 
+```
