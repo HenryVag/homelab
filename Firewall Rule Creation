@@ -1,0 +1,7 @@
+How to Create Firewall Rules
+
+
+
+
+
+OPNsense applies the rules in the listed order. Block rules should be therefore be before the allow rules so that unwanted connections are not established.
