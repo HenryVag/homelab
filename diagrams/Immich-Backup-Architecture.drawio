@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60" name="Sivu-1">
-    <mxGraphModel dx="1911" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2293" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,9 +68,9 @@
             <mxPoint x="130" y="136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-61" connectable="0" parent="-Bzv-9WPaDyJsyg4A9xP-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Immich Postgres DB Backups" vertex="1">
+        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-61" connectable="0" parent="-Bzv-9WPaDyJsyg4A9xP-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Immich Postgres DB Backups (previous 14 days)" vertex="1">
           <mxGeometry relative="1" x="-0.8033" as="geometry">
-            <mxPoint x="46" y="8" as="offset" />
+            <mxPoint x="64" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Bzv-9WPaDyJsyg4A9xP-44" connectable="0" parent="1" style="group" value="" vertex="1">
