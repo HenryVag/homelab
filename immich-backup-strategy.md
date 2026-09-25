@@ -41,7 +41,7 @@ TODO: What data is stored locally on the phone, have the phone store and backup 
 
 ### Immich DB Dumps
 |Type|Time|Day| Retention|
-|---------|-----|-----------------|-----------------|-------------------------------------|
+|---------|-----|-----------------|-----------------|
 | Daily    | 00:00  | Daily    | 14 days|
 
 
