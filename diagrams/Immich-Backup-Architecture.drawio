@@ -45,7 +45,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Postgres DB" vertex="1">
+        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-61" connectable="0" parent="-Bzv-9WPaDyJsyg4A9xP-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Immich Postgres DB Backups" vertex="1">
+          <mxGeometry relative="1" x="-0.8033" as="geometry">
+            <mxPoint x="46" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Immich Postgres DB" vertex="1">
           <mxGeometry height="30" width="70" x="302" y="868" as="geometry" />
         </mxCell>
         <mxCell id="-Bzv-9WPaDyJsyg4A9xP-40" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -63,7 +68,7 @@
         <mxCell id="-Bzv-9WPaDyJsyg4A9xP-42" parent="-Bzv-9WPaDyJsyg4A9xP-41" style="fontColor=#FFFFF;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=light-dark(#6881B3,#FFFFFF);gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="100" width="100" as="geometry" />
         </mxCell>
-        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-43" parent="-Bzv-9WPaDyJsyg4A9xP-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="tank/immich-db" vertex="1">
+        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-43" parent="-Bzv-9WPaDyJsyg4A9xP-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="tank/immich-db (planned)" vertex="1">
           <mxGeometry height="30" width="100" y="102" as="geometry" />
         </mxCell>
         <mxCell id="-Bzv-9WPaDyJsyg4A9xP-44" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -105,7 +110,7 @@
         <mxCell id="-Bzv-9WPaDyJsyg4A9xP-56" parent="1" style="fontColor=FFFFFF;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=light-dark(#6881B3,#FFFFFF);gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.external_storage;" value="" vertex="1">
           <mxGeometry height="161.87" width="130" x="1020" y="279.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Off-Site External 500GB HDD&lt;br&gt;TrueNAS rsync immich datasets" vertex="1">
+        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Off-Site External 500GB HDD&lt;br&gt;TrueNAS manual periodic rsync immich datasets" vertex="1">
           <mxGeometry height="48" width="140" x="1000" y="450" as="geometry" />
         </mxCell>
       </root>
