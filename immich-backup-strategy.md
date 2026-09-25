@@ -26,7 +26,7 @@ TODO: What data is stored locally on the phone, have the phone store and backup 
 ## Architecture Diagram
 
 
-(https://github.com/HenryVag/homelab/blob/d2af8070d4dcfd85b5c01a168fbcde367035e64f/images/immich-backup-diagram.png)
+![alt text](https://github.com/HenryVag/homelab/blob/d2af8070d4dcfd85b5c01a168fbcde367035e64f/images/immich-backup-diagram.png "immich backup diagram")
 
 ## Automated Schedules & Retention Times
 
