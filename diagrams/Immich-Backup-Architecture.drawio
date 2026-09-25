@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60" name="Sivu-1">
-    <mxGraphModel dx="2293" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2293" dy="1147" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
         <mxCell id="-Bzv-9WPaDyJsyg4A9xP-56" parent="1" style="fontColor=FFFFFF;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=light-dark(#6881B3,#FFFFFF);gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.external_storage;" value="" vertex="1">
           <mxGeometry height="161.87" width="130" x="1020" y="279.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Off-Site External 500GB HDD&lt;br&gt;TrueNAS manual periodic rsync immich datasets" vertex="1">
+        <mxCell id="-Bzv-9WPaDyJsyg4A9xP-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Off-Site External 500GB HDD&lt;br&gt;TrueNAS manual periodic rsync immich dataset" vertex="1">
           <mxGeometry height="48" width="140" x="1000" y="450" as="geometry" />
         </mxCell>
       </root>
